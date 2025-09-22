@@ -62,7 +62,7 @@ Cette page récapitule tous les projets que j'ai effectué dans le cadre de ma f
                 <a href="https://github.com/nau81000/property_business_analysis" target="_blank">
                     <img src="images/real_estate_sales_analysis.png" alt="Mon image" width="250">
                     <br>
-                    <em>Analyse d'annonces de type Airbnb</em>
+                    <em>Analyse de ventes immobilères</em>
                 </a>
             </td>
             <td align="center">
