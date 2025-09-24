@@ -120,7 +120,7 @@ Cette page récapitule tous les projets que j'ai effectué dans le cadre de ma f
     <img src="images/postgresql.png" alt="Postgresql" width="150" hspace="50">
 </p>
 <p align="center">
-    <img src="images/aws.png" alt="AWS" width="150" hspace="50">
+    <img src="images/aws.png" alt="AWS" width="100" hspace="50">
     <img src="images/gcp.png" alt="GCP" width="150" hspace="50">
     <img src="images/azure.png" alt="Azure" width="150" hspace="50">
 </p>
