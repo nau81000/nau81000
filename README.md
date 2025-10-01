@@ -1,6 +1,6 @@
 # Bonjour à tous 👋
 
-Cette page récapitule tous les projets que j'ai effectué dans le cadre de ma formation d'Ingénieur Data chez OpenClassRooms.
+Cette page récapitule tous les projets que j'ai effectués dans le cadre de ma formation d'Ingénieur Data chez OpenClassRooms.
 
 ## Projets accomplis
 
